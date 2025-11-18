@@ -31,7 +31,7 @@ Ao final, os dados foram estruturados de forma consistente e preparados para a m
 Na Exibição de Modelo, foi criado o relacionamento entre Vendas e Lojas utilizando o campo Código da Loja.
 Esse relacionamento possibilitou análises integradas, com contexto correto entre transações e suas respectivas lojas.
   
-##Passo 4 — Construção de Medidas em DAX  
+## Passo 4 — Construção de Medidas em DAX  
   
 Com a base modelada, foram utilizadas inicialmente medidas implícitas fornecidas pelo próprio Power BI (como soma e contagem).
 Em seguida, foi criada uma medida explícita para cálculo de comissão:  
