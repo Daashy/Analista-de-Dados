@@ -2,26 +2,26 @@
 
 Nos últimos dias desenvolvi um projeto completo de análise: transformar uma planilha simples do Excel em um dashboard de vendas totalmente funcional no Power BI. O objetivo principal foi estruturar um fluxo completo — da ingestão dos dados até a visualização final — seguindo boas práticas técnicas.
 
-## Passo 1 — Ingestão dos Dados
+## Passo 1 — Ingestão dos Dados  
 
-Os dados foram importados diretamente do Excel por meio da opção Obter Dados > Pasta de Trabalho.
+Os dados foram importados diretamente do Excel por meio da opção Obter Dados > Pasta de Trabalho.  
 Nesse processo, o Power BI carregou as tabelas Vendas e Lojas para o ambiente de análise, permitindo iniciar o trabalho de preparação e limpeza.
 
 ## Passo 2 — Tratamento e Transformações no Power Query
 
 Ao entrar no Editor do Power Query, os dados apresentavam problemas comuns encontrados em fontes operacionais:
 
-*- Erros de digitação*
-*- Colunas inconsistentes*
-*- Tipos de dados incorretos*
-*- Informações unificadas em um único campo*
+*- Erros de digitação*  
+*- Colunas inconsistentes*  
+*- Tipos de dados incorretos*  
+*- Informações unificadas em um único campo*  
 
-**As principais transformações aplicadas foram:**
-*- Substituir Valores para correção de entradas incorretas*
-*- Colocar Cada Palavra em Maiúscula para padronização de atributos textuais*
-*- Dividir Coluna por Delimitador para separar quantidade e preço unitário*
-*- Alterar Tipo de Dados para garantir leitura correta dos campos*
-*- Adicionar Coluna Personalizada para calcular Valor Venda (Quantidade × Preço Unitário)*
+**As principais transformações aplicadas foram:**    
+*- Substituir Valores para correção de entradas incorretas*  
+*- Colocar Cada Palavra em Maiúscula para padronização de atributos textuais*  
+*- Dividir Coluna por Delimitador para separar quantidade e preço unitário*  
+*- Alterar Tipo de Dados para garantir leitura correta dos campos*  
+*- Adicionar Coluna Personalizada para calcular Valor Venda (Quantidade × Preço Unitário)*  
 
 Ao final, os dados foram estruturados de forma consistente e preparados para a modelagem.
 
