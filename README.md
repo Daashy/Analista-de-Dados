@@ -3,4 +3,4 @@ Criei esse repositório para mostrar minha progressão como Analista de Dados. I
 Caso tenha interesse em me ajudar com algum projeto pessoal, me chama no instagram ou qualquer lugar.  
 
 Redes: @daashyzin em todas  
-Email: daashyzin@gmail.com
+Email: daashyzin@gmail.com / gusfernandes777@gmail.com
