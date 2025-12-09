@@ -1,0 +1,47 @@
+# Projeto: Pipeline de Vendas – ETL + SQL + Dashboard
+
+## 0. Setup
+- Import libs
+- Conexão com banco
+- Configs iniciais
+
+## 1. Entendimento do Problema
+- Como os dados estão estruturados
+- Quais KPIs serão respondidos
+- Dicionário de dados
+
+## 2. ETL
+### 2.1 Extração
+- Leitura de CSV/API
+
+### 2.2 Transformação
+- Renomear colunas
+- Padronizar datas
+- Tratar missing/outliers
+- Criar colunas derivadas
+
+### 2.3 Carga
+- Load para tabelas DIM
+- Load para tabela FATO
+- Verificações
+
+## 3. EDA
+- Estatísticas
+- Gráficos rápidos
+- Insights iniciais
+
+## 4. SQL Analytics
+- CTEs de negócio
+- Window functions
+- Criação de views
+
+## 5. Forecast
+- Série temporal
+- Modelo
+- Avaliação
+
+## 6. Visualização
+- Layout pro BI
+- Medidas DAX
+
+## 7. Conclusões + Próximos Passos
