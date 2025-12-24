@@ -13,34 +13,6 @@ O foco principal é **avaliar o impacto da política de descontos no lucro**, id
 
 ---
 
-## 🧱 Estrutura Geral do Projeto
-
-O projeto foi organizado seguindo boas práticas de engenharia e análise de dados:
-
-Pipeline Vendas Projeto/
-│
-├── README.md ← Visão geral do projeto
-├── LICENSE ← Licença MIT
-│
-├── data/
-│ ├── raw/ ← Dados brutos (originais)
-│ ├── interim/ ← Dados intermediários
-│ └── processed/ ← Dados tratados e prontos para análise
-│
-├── src/
-│ └── etl/
-│ ├── etl_ingestao.py ← Ingestão e extração dos dados
-│ └── etl_cleaning.py ← Limpeza, padronização e transformação
-│
-├── notebooks/
-│ └── eda/
-│ ├── EDA_superstore.ipynb ← Análise exploratória completa
-│ └── README.md ← Documentação específica do EDA
-│
-└── dashboards/
-└── (em desenvolvimento)
-
----
 
 ## 🔄 Etapas do Projeto
 
@@ -131,3 +103,4 @@ Este repositório tem fins educacionais e demonstrativos, com foco em aprendizad
 
 ## 📜 Licença
 Este projeto está licenciado sob a licença MIT — consulte o arquivo `LICENSE` para mais detalhes.
+
