@@ -1,8 +1,3 @@
-## ✍️ Autoria
-Projeto desenvolvido por **Gustavo Fernandes** como parte de estudos em Análise de Dados.
-Este repositório tem fins educacionais e demonstrativos.
-
------------------
 
 # 📊 Pipeline de Análise de Vendas — Superstore
 
@@ -103,4 +98,5 @@ Este repositório tem fins educacionais e demonstrativos, com foco em aprendizad
 
 ## 📜 Licença
 Este projeto está licenciado sob a licença MIT — consulte o arquivo `LICENSE` para mais detalhes.
+
 
